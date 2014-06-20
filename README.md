@@ -16,4 +16,4 @@ Useful resources
 
 ### Angularjs
 
-[egghead.io](http://egghead.io) - originaly initiated as bite-sized web development training with AngularJS, becomes one of the greatest sources of learning videos about JavaScript and ECMAScript6, AngularJS, D3, NodeJS and ReactJS.
+[egghead.io](http://egghead.io) - originaly initiated as bite-sized web development training with AngularJS, becomes one of the greatest sources of learning videos about JavaScript and ECMAScript 6, AngularJS, D3, NodeJS and ReactJS.
