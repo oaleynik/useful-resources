@@ -13,7 +13,7 @@ Useful resources
 
 #### Books
 
-[Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book) by @addyosmani
+[Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book) by [Addy Osmani](https://github.com/addyosmani)
 
 ### Angularjs
 
